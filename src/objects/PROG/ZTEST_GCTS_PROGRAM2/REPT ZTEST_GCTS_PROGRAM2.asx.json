@@ -1,0 +1,15 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"This is a test gcts program which we want to store in git",
+    "LENGTH":57
+   }
+  ]
+ }
+]
